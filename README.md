@@ -27,9 +27,6 @@ Cursei ciência da computação na __UFERSA__ ate 2018, quando me obriguei a pau
 
 - 🔭 Atualmente estou trabalhando em <a href=https://github.com/thiagohenriquerossato/videomaker>Um Robo que faz vídeo</a>
 - 🌱 No momento fazendo o curso da 🚀Rocketseat de NodeJS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 Como voce me encontra:
 - - ✉️[E-mail](mailto:thiago.rossato.tr@gmail.com)
 - - 📱(84)9-9932-7679
