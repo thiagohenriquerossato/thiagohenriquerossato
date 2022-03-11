@@ -11,7 +11,7 @@
 
 
 Meu nome é Thiago, 33 anos, e buscando evoluir minhas habilidades como desenvolvedor.
-Cursei ciência da computação na __UFERSA__ ate 2018, quando me obriguei a pausar por causa de trabalho. atualmente sou videomaker e estou em transição de carreira para desenvolvimento web.
+Cursei ciência da computação na __UFERSA__ ate 2018, quando me obriguei a pausar por causa de trabalho retornando agora em 2022. atualmente sou videomaker e estou em transição de carreira para desenvolvimento web.
 
 ## Cursos e bootcamps
 
@@ -31,8 +31,8 @@ Cursei ciência da computação na __UFERSA__ ate 2018, quando me obriguei a pau
 
 ##  
 
-- 🔭 Atualmente estou trabalhando em <a href=https://github.com/thiagohenriquerossato/videomaker>Um Robo que faz vídeo</a>
-- 🌱 No momento fazendo o curso da 🚀Rocketseat de NodeJS
+- 🔭 Atualmente estou trabalhando em <a href=https://github.com/thiagohenriquerossato/sistema_para_gerenciamento_de_pacientes>Um sistema para gerenciamento de pacientes pet</a>
+- 🌱 No momento fazendo o curso da 🚀Rocketseat de NodeJS e cursando ciencia da computação na Universidade Federal Rural do Semi Arido
 
 <!--[![Github](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white)](https://github.com/code36u4r60)
 - - <a href="https://www.linkedin.com/in/thiago-rossato-1410a475/"><img src="https://www.svgrepo.com/show/70809/linkedin.svg" width="24" heigth="24"></a>
